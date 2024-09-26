@@ -1,0 +1,3 @@
+/home/neko/CS2010 Labs/Prog1/cmake-build-debug/CMakeFiles/Prog1.dir
+/home/neko/CS2010 Labs/Prog1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/neko/CS2010 Labs/Prog1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
